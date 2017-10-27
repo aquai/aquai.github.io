@@ -9,6 +9,7 @@
 {% seo %}
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <meta name="viewport" content="width=device-width">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -17,24 +18,15 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <h1>Guanyi Chen</h1>
+        <p>I am a PhD student in <a href="https://www.abdn.ac.uk/ncs/departments/computing-science/natural-language-generation-187.php">CLAN</a>&#44; University of Aberdeen&#44; work on Natural Language Generation. I am supervised by <a href="http://homepages.abdn.ac.uk/k.vdeemter/pages">Prof. Kees van Deemter</a> and <a href="https://chenghualin.wordpress.com/">Dr. Chenghua Lin</a>.</p>
 
-        {% if site.github.is_project_page %}
-          <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
-        {% endif %}
+	<span class="glyphicon glyphicon-envelope"></span> <a href="mailto:g.chen@abdn.ac.uk">g.chen@abdn.ac.uk</a></br>
 
-        {% if site.github.is_user_page %}
-          <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
-
-        {% if site.show_downloads %}
-          <ul>
-            <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-            <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-            <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-          </ul>
-        {% endif %}
+        <a href="http://github.com/a-quei">
+        	<img src="img/icon/github_icon.png" alt=""/> Github
+        </a></br>
+	<span class="glyphicon glyphicon-file"></span> <a href="{{ site.baseurl }}{% link /assets/file/guanyi_cv.pdf %}">Curriculum Vitae</a></br>
       </header>
       <section>
 
@@ -43,7 +35,7 @@
       </section>
       <footer>
         {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        <p>This project is maintained by <a href="{{ site.github.owner_url }}">aquei</a></p>
         {% endif %}
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
