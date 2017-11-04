@@ -7,7 +7,7 @@ layout: reading
 
 | **Date**       || **Topic**  || **Details**  |
 | ------------- |-------------|:-------------:|-------------|:-------------|
-| **Nov. 3rd, 2017**| | **Information<br/>Extraction**| |*Guanyi* : [Morph-fitting: Fine-Tuning Word Vector Spaces with Simple Language-Specific Rules](http://mi.eng.cam.ac.uk/~sjy/papers/vmro17.pdf)<br />*Rui Mao* : [Skip-Gram – Zipf + Uniform = Vector Additivity](http://www.aclweb.org/anthology/P17-1007)<br />*Ruizhe Li* : [Neural Relation Extraction with Multi-lingual Attention](http://aclweb.org/anthology/P17-1005) |
+| **Nov. 3rd, 2017**| | **Semantic**| |*Guanyi* : [Morph-fitting: Fine-Tuning Word Vector Spaces with Simple Language-Specific Rules](http://mi.eng.cam.ac.uk/~sjy/papers/vmro17.pdf)<br />*Rui Mao* : [Skip-Gram – Zipf + Uniform = Vector Additivity](http://www.aclweb.org/anthology/P17-1007)<br />*Ruizhe Li* : [Neural Relation Extraction with Multi-lingual Attention](http://aclweb.org/anthology/P17-1005) |
 
 ### Previous Meetings
 <br />
