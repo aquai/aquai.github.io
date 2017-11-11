@@ -13,7 +13,7 @@
 <br />
 <br />
 
-### Award
+### Awards
 ------
 * Outstanding Graduates of Beijing
 * Outstanding Internship of Samsung Research Center Beijing
