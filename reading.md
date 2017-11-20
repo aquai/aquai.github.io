@@ -7,7 +7,7 @@ layout: reading
 
 | **Date**       || **Topic**  || **Details**  |
 | ------------- |-------------|:-------------:|-------------|:-------------|
-| **Nov. 17th, 2017**| | **Machine<br/>Translation**| |*Guanyi* : [Context Gates for Neural Machine Translation](http://www.aclweb.org/anthology/Q17-1007)<br />*Rui Mao* : [A Convolutional Encoder Model for Neural Machine Translation](http://www.aclweb.org/anthology/P17-1012)<br />*Ruizhe Li* : [Deep Neural Machine Translation with Linear Associative Unit](http://www.aclweb.org/anthology/P17-1013) |
+| ~~Nov. 17th, 2017~~<br/>**Nov. 20th, 2017**| | **Machine<br/>Translation**| |*Guanyi* : [Context Gates for Neural Machine Translation](http://www.aclweb.org/anthology/Q17-1007)<br />*Rui Mao* : [A Convolutional Encoder Model for Neural Machine Translation](http://www.aclweb.org/anthology/P17-1012)<br />*Ruizhe Li* : [Deep Neural Machine Translation with Linear Associative Unit](http://www.aclweb.org/anthology/P17-1013) |
 
 ### Previous Meetings
 <br />
