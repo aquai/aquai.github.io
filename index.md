@@ -22,5 +22,5 @@
 
 ### Links
 ------
-[Mini NLP and ML Reading Group@Aberdeen](/reading)
-[TOEAT List](/eating)
+* [Mini NLP and ML Reading Group@Aberdeen](/reading)
+* [TOEAT List](/eating)
