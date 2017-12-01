@@ -21,7 +21,7 @@ layout: reading
 
 | **Date**       || **Topic**  || **Readings**  |
 | ------------- |-------------|:-------------:|-------------|:-------------|
-| **Dec. 1st, 2017**| | *Language Model and Noisy Channel Model* | | JM3 Ch 3,  |
+| **Dec. 1st, 2017**| | *Language Model and Noisy Channel Model* | | JM3 Ch 3, 4 |
 
 <br/>
 <br/>
