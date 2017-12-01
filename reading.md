@@ -21,7 +21,7 @@ layout: reading
 
 | **Date**       || **Topic**  || **Readings**  |
 | ------------- |-------------|:-------------:|-------------|:-------------|
-| **Dec. 8th, 2017**| | *Naive Bayes, Logistic Regression<br/>and Nueural Networks* | | JM3 Ch 5, 6, 7 |
+| **Dec. 8th, 2017**| | *Naive Bayes, Logistic Regression<br/>and Neural Networks* | | JM3 Ch 5, 6, 7 |
 
 <br/>
 <br/>
