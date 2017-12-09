@@ -10,7 +10,7 @@ layout: reading
 
 | **Date**       || **Topic**  || **Readings**  |
 | ------------- |-------------|:-------------:|-------------|:-------------|
-| **Dec. 8th, 2017**| | **Machine Learning**| | [Automatic differentiation in machine learning: a survey](https://arxiv.org/pdf/1502.05767.pdf) |
+| **Dec. 8th, 2017**| | **Special Session**| | Discussing SemEval-2017 Shared Tasks |
 
 <br/>
 
@@ -38,6 +38,7 @@ layout: reading
 | ~~Nov. 17th, 2017~~<br/>**Nov. 20th, 2017**| | **Machine<br/>Translation**| |*Guanyi Chen* : [Context Gates for Neural Machine Translation](http://www.aclweb.org/anthology/Q17-1007)<br />*Rui Mao* : [A Convolutional Encoder Model for Neural Machine Translation](http://www.aclweb.org/anthology/P17-1012)<br />*Ruizhe Li* : [Deep Neural Machine Translation with Linear Associative Unit](http://www.aclweb.org/anthology/P17-1013) |
 | **Nov. 24th, 2017**| | **Generation**| |*Guanyi Chen* : [Neural AMR: Sequence-to-Sequence Models for Parsing and Generation](https://arxiv.org/pdf/1704.08381.pdf)<br />*Rui Mao* : [Program Induction by Rationale Generation: <br/> &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;Learning to Solve and Explain Algebraic Word Problems](http://www.aclweb.org/anthology/P17-1015)<br />*Ruizhe Li* : [Automatically Generating Rhythmic Verse with Neural Networks](http://www.aclweb.org/anthology/P17-1016) |
 | **Dec. 1st, 2017**| | **Special Session**| | [Dynamic Routing Between Capsules](https://arxiv.org/pdf/1710.09829.pdf) |
+| **Dec. 8th, 2017**| | **Machine Learning**| | [Automatic differentiation in machine learning: a survey](https://arxiv.org/pdf/1502.05767.pdf) |
 
 <br/>
 
