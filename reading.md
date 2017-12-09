@@ -21,7 +21,7 @@ layout: reading
 
 | **Date**       || **Topic**  || **Readings**  |
 | ------------- |-------------|:-------------:|-------------|:-------------|
-| **Dec. 8th, 2017**| | *Naive Bayes, Logistic Regression<br/>and Neural Networks* | | JM3 Ch 5, 6, 7 |
+| **Dec. 15th, 2017**| | *HMMs and POS Tagging* | | JM3 Ch 9, 10 |
 
 <br/>
 <br/>
@@ -49,7 +49,10 @@ layout: reading
 | **Date**       || **Topic**  || **Readings**  |
 | ------------- |-------------|:-------------:|-------------|:-------------|
 | **Nov. 24th, 2017**| | *Regular Expressions, Text Normalisation<br/>Edit Distance and Finite State Transducers* | | JM3 Ch 2 <br/> JM2 Ch 3.1-3.8 |
-| **Dec. 1st, 2017**| | *Language Model and Noisy Channel Model* | | JM3 Ch 3, 4 |
+| **Dec. 1st, 2017**| | *Language Model and Noisy Channel Model* | | JM3 Ch 4, 5 |
+| **Date**       || **Topic**  || **Readings**  |
+| ------------- |-------------|:-------------:|-------------|:-------------|
+| **Dec. 8th, 2017**| | *Naive Bayes, Logistic Regression<br/>and Neural Networks* | | JM3 Ch 6, 7, 8 |
 
 <br/>
 <br/>
