@@ -21,7 +21,7 @@ layout: reading
 
 | **Date**       || **Topic**  || **Readings**  |
 | ------------- |-------------|:-------------:|-------------|:-------------|
-| **Dec. 22th, 2017**| | *Grammars and Parsing* | | JM3 Ch 11, 12, 13 |
+| **Jab. 12th, 2018**| | *Semantics* | | JM3 Ch 18<br/>JM2 CH 17, 18 |
 
 <br/>
 <br/>
@@ -40,6 +40,7 @@ layout: reading
 | **Dec. 1st, 2017**| | **Special Session**| | [Dynamic Routing Between Capsules](https://arxiv.org/pdf/1710.09829.pdf) |
 | **Dec. 8th, 2017**| | **Machine Learning**| | [Automatic differentiation in machine learning: a survey](https://arxiv.org/pdf/1502.05767.pdf) |
 | **Dec. 15th, 2017**| | **Special Session**| | Discussing SemEval-2017 Shared Tasks |
+| **Jan. 5th, 2018**| | **Word Embeddings**| | [Advances in Pre-Training Distributed Word Representations](https://arxiv.org/pdf/1712.09405.pdf) |
 
 <br/>
 
@@ -55,6 +56,8 @@ layout: reading
 | ------------- |-------------|:-------------:|-------------|:-------------|
 | **Dec. 8th, 2017**| | *Naive Bayes, Logistic Regression<br/>and Neural Networks* | | JM3 Ch 6, 7, 8 |
 | **Dec. 15th, 2017**| | *HMMs and POS Tagging* | | JM3 Ch 9, 10 |
+| **Dec. 29th, 2017**| | *Grammars and Parsing* | | JM3 Ch 11, 12, 13, 14 |
+| **Jan. 5th, 2018**| | *Lexical Semantics* | | JM3 Ch 15, 16, 17 |
 
 <br/>
 <br/>
