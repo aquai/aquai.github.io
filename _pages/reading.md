@@ -19,7 +19,7 @@ author_profile: true
 
 | **Date**       | **Type** | **Topic**  | **Readings**  |
 | ------------- |:-------------:|:-------------:|:-------------|
-| **Jab. 26th, 2018**| **Book** | *Data Compression* | DM Ch 1.1-1.3 |
+| **Jab. 26th, 2018**| **Book** | **Introduction**<br/>**Probability Theory**| DM Ch 1, 2 |
 
 
 ## Previous Meetings
