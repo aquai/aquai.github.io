@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Guanyi Chen's Homepage"
+title                    : "Guanyi Chen&apos;s Homepage"
 title_separator          : "-"
 name                     : &name "Guanyi Chen"
 description              : &description "I am a PhD student in Computer Science&#44; University of Aberdeen&#44; working on Natural Language Generation. I am supervised by Prof. Kees van Deemter and Dr. Chenghua Lin."
