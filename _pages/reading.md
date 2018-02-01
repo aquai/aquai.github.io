@@ -19,7 +19,7 @@ author_profile: true
 
 | **Date**       | **Type** | **Topic**  | **Readings**  |
 | ------------- |:-------------:|:-------------:|:-------------|
-| **Jab. 26th, 2018**| **Book** | **Introduction**<br/>**Probability Theory**| DM Ch 1, 2 |
+| **Feb. 2th, 2018**| **Book** | **Probability and Entropy**<br/>**Inference**| DM Ch 2, 3 |
 
 
 ## Previous Meetings
@@ -44,4 +44,5 @@ author_profile: true
 | **Jan. 5th, 2018**| **Book** | **Lexical Semantics** | JM3 Ch 15, 16, 17 |
 | **Jab. 12th, 2018**| **Book** | **Semantics** | JM3 Ch 18<br/>JM2 CH 17, 18 |
 | **Jab. 19th, 2018**| **Book** | **Information extraction <br/> Semantic Role Labelling** | JM3 Ch 21, 22 |
+| **Jab. 26th, 2018**| **Book** | **Introduction** | DM Ch 1 |
 
