@@ -12,8 +12,8 @@ main:
   - title: "Reading Group"
     url: /reading/
         
-  - title: "Posts"
-    url: /year-archive/
+  - title: "Quotations"
+    url: /quotation/
     
   - title: "CV"
     url: /cv/

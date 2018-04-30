@@ -39,6 +39,9 @@
 <loc>http://localhost:4000/publications/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/quotation/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/reading/</loc>
 </url>
 <url>
