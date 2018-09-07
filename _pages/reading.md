@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Mini NLP and ML Reading Group@Aberdeen"
+title: "Mini NLP and ML Reading Group@Aberdeen (Terminated)"
 permalink: /reading/
 author_profile: true
 ---

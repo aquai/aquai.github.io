@@ -15,7 +15,8 @@ You can find more information in my full [resume]({{ site.url }}/files/guanyi_cv
 * B.S. in Engineering, Queen Mary University of London, 2015
 * B.S. in Management, Beijing University of Posts and Telecommunicates, 2015
 * M.S. in Artificial Intelligence, University of Edinburgh, 2016
-* Ph.D in Computer Science, University of Aberdeen, 2020 (expected)
+* Ph.D Candidate in Computer Science, University of Aberdeen (withdrew and moved to Utrecht)
+* Ph.D in Computing Science, Utrecht University, 2021 (expected)
 
 ## Work experience
 * **Intern at Deep Natual Language Understanding Group**
