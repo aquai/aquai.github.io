@@ -19,6 +19,7 @@ Mao R., **Chen G.**, Li, R. and Lin C.<br />
 2. Modelling Various Kinds of Specifications \(extended abstract\)<br />
 **Chen G.**, van Deemter K. and Lin, C.<br />
 **CoMPPrag** *Workshop*, Bochum, 2018<br />
+[\[pdf\]]({{ site.url }}/files/Modelling_Various_Kinds_of_Specifications.pdf) [\[slide\]]({{ site.url }}/files/compprag2018.pdf)<br />
 3. SimpleNLG-ZH: a Linguistic Realisation Engine for Mandarin<br />
 **Chen G.**, van Deemter K. and Lin, C. <br />
 **INLG** *2018*, Tilburg<br />
