@@ -23,9 +23,15 @@ Mao R., **Chen G.**, Li, R. and Lin C.<br />
 3. SimpleNLG-ZH: a Linguistic Realisation Engine for Mandarin<br />
 **Chen G.**, van Deemter K. and Lin, C. <br />
 **INLG** *2018*, Tilburg<br />
+[\[pdf\]](http://aclweb.org/anthology/W18-6506) [\[BibTex\]](https://aclanthology.info/papers/W18-6506/w18-6506.bib)<br />
 4. Modelling Pro-drop with the Rational Speech Acts Model<br />
 **Chen G.**, van Deemter K. and Lin, C.<br />
 **INLG** *2018*, Tilburg<br />
+[\[pdf\]](http://aclweb.org/anthology/W18-6519) [\[BibTex\]](https://aclanthology.info/papers/W18-6519/w18-6519.bib)<br />
+5. Building a Large-scale Persona Dialog Dataset <br />
+Zheng Y., **Chen G.**, Huang M.<br />
+*INLG 2018 on * **HRI-MLG** *Workshop*, Tilburg<br />
+[\[pdf\]](https://dspace.library.uu.nl/handle/1874/373955)
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
