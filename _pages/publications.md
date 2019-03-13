@@ -30,7 +30,7 @@ Mao R., **Chen G.**, Li, R. and Lin C.<br />
 [\[pdf\]](http://aclweb.org/anthology/W18-6519) [\[BibTex\]](https://aclanthology.info/papers/W18-6519/w18-6519.bib)<br />
 5. Building a Large-scale Persona Dialog Dataset <br />
 Zheng Y., **Chen G.**, Huang M.<br />
-*INLG 2018 on * **HRI-MLG** *Workshop*, Tilburg<br />
+*INLG 2018 on* **HRI-MLG** *Workshop*, Tilburg<br />
 [\[pdf\]](https://dspace.library.uu.nl/handle/1874/373955)
 
 {% for post in site.publications reversed %}
