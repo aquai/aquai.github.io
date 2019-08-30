@@ -25,4 +25,4 @@ Besides that, I also do some practical stuffs related to language generation, su
 Services
 ======
 - I used to organised a [mini NLP and ML reading group]({{ site.url }}/reading) at the Department of Computing Science, University of Aberdeen
-- **Program Committee**: ACL 2019 (Generation), EMNLP 2019 (Summarisation and Generation), INLG 2019
+- **Program Committee**: ACL 2019 (Generation), EMNLP 2019 (Summarisation and Generation), INLG 2019, AAAI 2020
