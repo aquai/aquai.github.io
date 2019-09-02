@@ -21,6 +21,15 @@ Zheng Y., **Chen G.**, Huang M., Liu S., and Zhu X.<br />
 1. A Dual-Attention Hierarchical Recurrent Neural Network for Dialogue Act Classification<br />
 Li R., Lin C., Collinson M., Li X., and **Chen G.**<br />
 **CoNLL** *2019*, Hong Kong, China<br />
+2. Introducing and Analysing qtuna: a Corpus for the Generation of Quantified Statements<br />
+**Chen G.**, van Deemter K., Pagliaro S., Smalbil L., and Lin C.<br />
+**INLG** *2019*, Tokyo<br />
+3. Generating Quantified Descriptions of Abstract Visual Scenes<br />
+**Chen G.**, van Deemter K., and Lin C.<br />
+**INLG** *2019*, Tokyo<br />
+4. A Closer Look at Recent Results of Verb Selection for Data-to-Text NLG<br />
+**Chen G.**, and Yao J.<br />
+**INLG** *2019*, Tokyo<br />
 
 ## 2018
 1.  ABDN at SemEval-2018 Task 10: Recognising Discriminative Attributes using Context Embeddings and WordNet<br />
