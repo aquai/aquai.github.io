@@ -16,6 +16,10 @@ author_profile: true
 Zheng Y., **Chen G.**, Huang M., Liu S., and Zhu X.<br />
 **arXiv preprint**, arXiv:1901.09672<br />
 [\[pdf\]](https://arxiv.org/pdf/1901.09672.pdf)
+2. Out-of-domain Detection for Natural Language Understanding in Dialog Systems<br />
+Zheng Y., **Chen G.**, and Huang M.<br />
+**arXiv preprint**, arXiv:1909.03862<br />
+[\[pdf\]](https://arxiv.org/pdf/1909.03862.pdf)
 
 ## 2019
 1. A Dual-Attention Hierarchical Recurrent Neural Network for Dialogue Act Classification<br />
