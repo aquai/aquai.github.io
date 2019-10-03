@@ -30,7 +30,7 @@ Li R., Lin C., Collinson M., Li X., and **Chen G.**<br />
 4. A Closer Look at Recent Results of Verb Selection for Data-to-Text NLG<br />
 **Chen G.**, and Yao J.<br />
 **INLG** *2019*, Tokyo<br />
-5. Persona-aware Dialogue Generation with Enriched Profile
+5. Persona-aware Dialogue Generation with Enriched Profile<br />
 Zheng Y., **Chen G.**, Huang M., Liu S., and Zhu X.<br />
 *NeurIPS 2019 on* **Conversational AI** *Workshop*, Vancouver<br />
 [\[pdf\]](https://arxiv.org/pdf/1901.09672.pdf)
