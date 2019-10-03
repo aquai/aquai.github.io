@@ -12,11 +12,7 @@ author_profile: true
 {% include base_path %}
 
 ## arXiv preprints
-1. Personalized Dialogue Generation with Diversified Traits<br />
-Zheng Y., **Chen G.**, Huang M., Liu S., and Zhu X.<br />
-**arXiv preprint**, arXiv:1901.09672<br />
-[\[pdf\]](https://arxiv.org/pdf/1901.09672.pdf)
-2. Out-of-domain Detection for Natural Language Understanding in Dialog Systems<br />
+1. Out-of-domain Detection for Natural Language Understanding in Dialog Systems<br />
 Zheng Y., **Chen G.**, and Huang M.<br />
 **arXiv preprint**, arXiv:1909.03862<br />
 [\[pdf\]](https://arxiv.org/pdf/1909.03862.pdf)
@@ -34,6 +30,10 @@ Li R., Lin C., Collinson M., Li X., and **Chen G.**<br />
 4. A Closer Look at Recent Results of Verb Selection for Data-to-Text NLG<br />
 **Chen G.**, and Yao J.<br />
 **INLG** *2019*, Tokyo<br />
+5. Persona-aware Dialogue Generation with Enriched Profile
+Zheng Y., **Chen G.**, Huang M., Liu S., and Zhu X.<br />
+*NeurIPS 2019 on* **Conversational AI** *Workshop*, Vancouver<br />
+[\[pdf\]](https://arxiv.org/pdf/1901.09672.pdf)
 
 ## 2018
 1.  ABDN at SemEval-2018 Task 10: Recognising Discriminative Attributes using Context Embeddings and WordNet<br />
