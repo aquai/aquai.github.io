@@ -24,9 +24,11 @@ Li R., Lin C., Collinson M., Li X., and **Chen G.**<br />
 2. QTUNA: A Corpus for Understanding How Speakers Use Quantification<br />
 **Chen G.**, van Deemter K., Pagliaro S., Smalbil L., and Lin C.<br />
 **INLG** *2019*, Tokyo<br />
+[\[Data\]](https://github.com/a-quei/qtuna)<br />
 3. Generating Quantified Descriptions of Abstract Visual Scenes<br />
 **Chen G.**, van Deemter K., and Lin C.<br />
 **INLG** *2019*, Tokyo<br />
+[\[Code\]](https://github.com/a-quei/quantified-description-generation)<br />
 4. A Closer Look at Recent Results of Verb Selection for Data-to-Text NLG<br />
 **Chen G.**, and Yao J.<br />
 **INLG** *2019*, Tokyo<br />
@@ -47,7 +49,7 @@ Mao R., **Chen G.**, Li, R., and Lin C.<br />
 3. SimpleNLG-ZH: a Linguistic Realisation Engine for Mandarin<br />
 **Chen G.**, van Deemter K., and Lin C. <br />
 **INLG** *2018*, Tilburg<br />
-[\[pdf\]](http://aclweb.org/anthology/W18-6506) [\[BibTex\]](https://aclanthology.info/papers/W18-6506/w18-6506.bib)<br />
+[\[pdf\]](http://aclweb.org/anthology/W18-6506) [\[BibTex\]](https://aclanthology.info/papers/W18-6506/w18-6506.bib) [\[Code\]](https://github.com/a-quei/simplenlg-zh)<br />
 4. Modelling Pro-drop with the Rational Speech Acts Model<br />
 **Chen G.**, van Deemter K., and Lin C.<br />
 **INLG** *2018*, Tilburg<br />
