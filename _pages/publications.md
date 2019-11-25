@@ -20,6 +20,7 @@ Zheng Y., **Chen G.**, and Huang M.<br />
 ## 2019
 1. A Dual-Attention Hierarchical Recurrent Neural Network for Dialogue Act Classification<br />
 Li R., Lin C., Collinson M., Li X., and **Chen G.**<br />
+[\[pdf\]](https://www.aclweb.org/anthology/K19-1036.pdf) [\[BibTex\]](https://www.aclweb.org/anthology/K19-1036.bib)<br />
 **CoNLL** *2019*, Hong Kong, China<br />
 2. QTUNA: A Corpus for Understanding How Speakers Use Quantification<br />
 **Chen G.**, van Deemter K., Pagliaro S., Smalbil L., and Lin C.<br />
