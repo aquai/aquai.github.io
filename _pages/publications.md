@@ -24,8 +24,8 @@ Li R., Lin C., Collinson M., Li X., and **Chen G.**<br />
 **CoNLL** *2019*, Hong Kong, China<br />
 2. QTUNA: A Corpus for Understanding How Speakers Use Quantification<br />
 **Chen G.**, van Deemter K., Pagliaro S., Smalbil L., and Lin C.<br />
-[\[pdf\]](https://www.aclweb.org/anthology/W19-8616.pdf) [\[BibTex\]](https://www.aclweb.org/anthology/W19-8616.bib) [\[Data\]](https://github.com/a-quei/qtuna)<br />
 **INLG** *2019*, Tokyo<br />
+[\[pdf\]](https://www.aclweb.org/anthology/W19-8616.pdf) [\[BibTex\]](https://www.aclweb.org/anthology/W19-8616.bib) [\[Data\]](https://github.com/a-quei/qtuna)<br />
 3. Generating Quantified Descriptions of Abstract Visual Scenes<br />
 **Chen G.**, van Deemter K., and Lin C.<br />
 **INLG** *2019*, Tokyo<br />
