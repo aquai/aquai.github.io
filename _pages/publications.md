@@ -25,14 +25,15 @@ Li R., Lin C., Collinson M., Li X., and **Chen G.**<br />
 2. QTUNA: A Corpus for Understanding How Speakers Use Quantification<br />
 **Chen G.**, van Deemter K., Pagliaro S., Smalbil L., and Lin C.<br />
 **INLG** *2019*, Tokyo<br />
-[\[Data\]](https://github.com/a-quei/qtuna)<br />
+[\[pdf\]](https://www.aclweb.org/anthology/W19-8616.pdf) [\[BibTex\]](https://www.aclweb.org/anthology/W19-8616.bib)[\[Data\]](https://github.com/a-quei/qtuna)<br />
 3. Generating Quantified Descriptions of Abstract Visual Scenes<br />
 **Chen G.**, van Deemter K., and Lin C.<br />
 **INLG** *2019*, Tokyo<br />
-[\[Code\]](https://github.com/a-quei/quantified-description-generation)<br />
+[\[pdf\]](https://www.aclweb.org/anthology/W19-8667.pdf) [\[BibTex\]](https://www.aclweb.org/anthology/W19-8667.bib)[\[Code\]](https://github.com/a-quei/quantified-description-generation)<br />
 4. A Closer Look at Recent Results of Verb Selection for Data-to-Text NLG<br />
 **Chen G.**, and Yao J.<br />
 **INLG** *2019*, Tokyo<br />
+[\[pdf\]](https://www.aclweb.org/anthology/W19-8622.pdf) [\[BibTex\]](https://www.aclweb.org/anthology/W19-8622.bib)<br />
 5. Persona-aware Dialogue Generation with Enriched Profile<br />
 Zheng Y., **Chen G.**, Huang M., Liu S., and Zhu X.<br />
 *NeurIPS 2019 on* **Conversational AI** *Workshop*, Vancouver<br />
