@@ -23,4 +23,5 @@ My primary research interest is in [Natural Language Generation](https://en.wiki
 Services
 ======
 - I used to organised a [mini NLP and ML reading group]({{ site.url }}/reading) at the Department of Computing Science, University of Aberdeen
-- **Program Committee**: ACL 2019 (Generation), EMNLP 2019 (Summarisation and Generation), INLG 2019 (Area Chair), AAAI 2020
+- **Program Committee**: ACL (Generation; 2019), EMNLP (Summarisation and Generation; 2019), AAAI (2020)
+- **Area Chair**: INLG (2019)
