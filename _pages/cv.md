@@ -9,13 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-You can find more information in my full [resume]({{ site.url }}/files/guanyi_cv.pdf).
-
 ## Education
-* B.S. in Engineering, Queen Mary University of London, 2015
-* B.S. in Management, Beijing University of Posts and Telecommunicates, 2015
+* B.Eng. in E-Commerce Engineering with Law, Queen Mary University of London, 2015
+* B.B.A. in E-Commerce Engineering with Law, Beijing University of Posts and Telecommunication, 2015
 * M.S. in Artificial Intelligence, University of Edinburgh, 2016
-* Ph.D Candidate in Computer Science, University of Aberdeen (withdrew and moved to Utrecht)
+* Ph.D in Computing Science, University of Aberdeen (withdrew and moved to Utrecht)
 * Ph.D in Computing Science, Utrecht University, 2021 (expected)
 
 ## Work experience
@@ -36,3 +34,4 @@ You can find more information in my full [resume]({{ site.url }}/files/guanyi_cv
 ## Awards
 * Outstanding Graduates of Beijing
 * Outstanding Internship of Samsung Research Center Beijing
+* Chinese Scholarship Council Scholarship

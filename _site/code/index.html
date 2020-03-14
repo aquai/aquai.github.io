@@ -19,7 +19,7 @@
 
 
 
-<title>Posts by Collection - Guanyi Chen&#39;s Homepage</title>
+<title>Code and Data - Guanyi Chen&#39;s Homepage</title>
 
 
 
@@ -29,11 +29,11 @@
 
 <meta property="og:locale" content="en-UK">
 <meta property="og:site_name" content="Guanyi Chen&apos;s Homepage">
-<meta property="og:title" content="Posts by Collection">
+<meta property="og:title" content="Code and Data">
 
 
-  <link rel="canonical" href="http://localhost:4000/collection-archive/">
-  <meta property="og:url" content="http://localhost:4000/collection-archive/">
+  <link rel="canonical" href="http://localhost:4000/code/">
+  <meta property="og:url" content="http://localhost:4000/code/">
 
 
 
@@ -237,54 +237,44 @@
 
   <div class="archive">
     
-      <h1 class="page__title">Posts by Collection</h1>
+      <h1 class="page__title">Code and Data</h1>
     
     
+<h2 id="simplenlg-zh">SimpleNLG-ZH</h2>
 
+<p>SimpleNLG-ZH is a realisation engine for Mandarin that follows the software design paradigm of SimpleNLG, i.e., keeping a clear separation between morphological and syntactic operations. Mandarin, as a highly analytical language, needs far fewer morphological operations but many more syntactic constraints than English. SimpleNLG-ZH (“Zhongwen” is Mandarin for “Chinese’”) was first built as a realiser for generating referring expressions in Mandarin which are mostly noun phrases together with simple verb phrases, and then extended to cover other constructions and phenomena in Mandarin. The current version of SimpleNLG-ZH was developed as an adaptation from V4.4.8 of the original <a href="https://github.com/simplenlg/simplenlg">SimpleNLG</a>.</p>
 
+<p>The source code of SimpleNLG-ZH (written in Java) can be downloaded at: <a href="https://github.com/a-quei/simplenlg-zh">here</a>.</p>
 
-  
-    
-    
-      <h2 id="portfolio" class="archive__subtitle">portfolio</h2>
-      
-    
-  
-  
+<p><strong>References</strong>:</p>
 
-  
-  
-    
-  
-    
-  
+<p>Chen G., van Deemter K., and Lin C. <em>SimpleNLG-ZH: a Linguistic Realisation Engine for Mandarin</em>, The 11th International Conference on Natural Language Generation, Tilburg,  Netherlands, 2018.</p>
 
-  
-    
-    
-      <h2 id="publications" class="archive__subtitle">publications</h2>
-      
-    
-  
-  
+<p><br /></p>
 
-  
-    
-    
-      <h2 id="talks" class="archive__subtitle">talks</h2>
-      
-    
-  
-  
+<h2 id="qtuna">QTUNA</h2>
 
-  
-    
-    
-      <h2 id="teaching" class="archive__subtitle">teaching</h2>
-      
-    
-  
-  
+<p>QTUNA is a series of elicitation experiments in which human speakers were asked to perform a linguistic task that invites the use of quantified expressions in order to inform a possible Natural Language Generation algorithms that mimic humans’ use of quantified expressions. This work was inspired by a line of work focusing one specific class of noun phrases, i.e., referring expression, where they focus on corpora of referring expressions  that  were  elicited  under  experimentally  controlled  conditions (e.g., <a href="https://www.abdn.ac.uk/ncs/departments/computing-science/tuna-318.php">TUNA</a> experiment), but aiming  this  time  to  gain  insights into quantified noun phrases.</p>
+
+<p>The dataset yielded from the QTUNA experiments can be found at: <a href="https://github.com/a-quei/qtuna">here</a>.</p>
+
+<p><strong>References</strong>:</p>
+
+<p>Chen G., van Deemter K., Pagliaro S., Smalbil L. and Lin C.  <em>QTUNA: A Corpus for Understanding How Speakers Use Quantification</em>, The 12th International Conference on Natural Language Generation,  Tokyo, 2019.</p>
+
+<p><br /></p>
+
+<h2 id="quantified-description-generation">Quantified Description Generation</h2>
+
+<p>We designed two quantified description generation (QDG) algorithms, namely, the incremental algorithm and the greedy algorithm, for simulating human production of quantified expressions, and for reproducing descriptions in the <a href="https://github.com/a-quei/quantified-description-generation">QTUNA dataset</a>.</p>
+
+<p>Given a target scene with its domain knowledge, the generator constructs a set containing all possible scenes in the same domain as the target scene. The generator then calls a QDG algorithm to construct a description containing a set of QEs. The algorithm selects from a set of candidate quantified patterns, based on the common knowledge by mimicking how human beings did so in the QTUNA experiment. Finally, a simple template-based surface realiser is called to map the description (in logical form) into natural language text.</p>
+
+<p>The source code (written in Python) can be downloaded at: <a href="https://github.com/a-quei/quantified-description-generation">here</a>.</p>
+
+<p><strong>References</strong>:</p>
+
+<p>Chen G., van Deemter K. and Lin C. <em>Generating Quantified Descriptions of Abstract Visual Scenes</em>, The 12th International Conference on Natural Language Generation,  Tokyo, 2019.</p>
 
   </div>
 </div>
