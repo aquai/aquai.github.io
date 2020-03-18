@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Guanyi</strong> Chen
-description: <a href="">NLP Group</a>. Department of Information and Computing Sciences. Utrecht University.
+description: <a href="https://www.uu.nl/en/research/intelligent-software-systems/natural-language-processing">Natural Language Processing Group</a><br/> Department of Information and Computing Sciences<br> Utrecht University
 
 profile:
   align: right
