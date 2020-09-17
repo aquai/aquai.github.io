@@ -14,6 +14,7 @@ permalink: /resume/
 * Ph.D in Computing Science, Utrecht University, 2021 (expected)
 
 #### Work experience
+* **Teaching Assistant for INFOMNLP Natural Language Processing**, *Utrecht Institute of Linguistics OTS*
 * **Intern at Knowledge Computing Group**, *Microsoft Research Asia*
 * **Intern at Deep Natual Language Understanding Group**, Language Computing Lab, *Samsung Research Center Beijing*
 * **Intern at Data Analysis Depmartment**, *China International e-Commerce Center*, China
