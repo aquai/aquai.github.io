@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Guanyi Chen | resources</title>
+  <meta name="description" content="I am a PhD Candidate at Utrecht University&#44; working on Natural Language Generation. I am supervised by Prof. Kees van Deemter and Dr. Chenghua Lin.
+">
+
+  <link rel="shortcut icon" href="/assets/img/favicon.ico">
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="canonical" href="/resources/">
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    
+    <span class="site-title">
+        
+        <strong>Guanyi</strong> Chen
+    </span>
+    
+
+    <nav class="site-nav">
+
+      <div class="trigger">
+        <!-- About -->
+        <a class="page-link" href="/">about</a>
+
+        <!-- Blog -->
+        <a class="page-link" href="/blog/">blog</a>
+
+        <!-- Pages -->
+        
+          
+        
+          
+        
+          
+        
+          
+            <a class="page-link" href="/publications/">publications</a>
+          
+        
+          
+            <a class="page-link" href="/resources/">resources</a>
+          
+        
+          
+            <a class="page-link" href="/resume/">resume</a>
+          
+        
+          
+        
+
+        <!-- CV link -->
+        <!-- <a class="page-link" href="/assets/pdf/CV.pdf">vitae</a> -->
+
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">resources</h1>
+    <h5 class="post-description">Code and Datsets</h5>
+  </header>
+
+  <article class="post-content resources clearfix">
+    <h4 id="simplenlg-zh">SimpleNLG-ZH</h4>
+
+<p>SimpleNLG-ZH is a realisation engine for Mandarin that follows the software design paradigm of SimpleNLG, i.e., keeping a clear separation between morphological and syntactic operations. Mandarin, as a highly analytical language, needs far fewer morphological operations but many more syntactic constraints than English. SimpleNLG-ZH (“Zhongwen” is Mandarin for “Chinese’”) was first built as a realiser for generating referring expressions in Mandarin which are mostly noun phrases together with simple verb phrases, and then extended to cover other constructions and phenomena in Mandarin. The current version of SimpleNLG-ZH was developed as an adaptation from V4.4.8 of the original <a href="https://github.com/simplenlg/simplenlg">SimpleNLG</a>.</p>
+
+<p>The source code of SimpleNLG-ZH (written in Java) can be downloaded at: <a href="https://github.com/a-quei/simplenlg-zh">here</a>.</p>
+
+<p><strong>References</strong>:</p>
+
+<p>Chen G., van Deemter K., and Lin C. <em>SimpleNLG-ZH: a Linguistic Realisation Engine for Mandarin</em>, The 11th International Conference on Natural Language Generation, Tilburg,  Netherlands, 2018.</p>
+
+<hr />
+
+<h4 id="qtuna">QTUNA</h4>
+
+<p>QTUNA is a series of elicitation experiments in which human speakers were asked to perform a linguistic task that invites the use of quantified expressions in order to inform a possible Natural Language Generation algorithms that mimic humans’ use of quantified expressions. This work was inspired by a line of work focusing one specific class of noun phrases, i.e., referring expression, where they focus on corpora of referring expressions  that  were  elicited  under  experimentally  controlled  conditions (e.g., <a href="https://www.abdn.ac.uk/ncs/departments/computing-science/tuna-318.php">TUNA</a> experiment), but aiming  this  time  to  gain  insights into quantified noun phrases.</p>
+
+<p>The dataset yielded from the QTUNA experiments can be found at: <a href="https://github.com/a-quei/qtuna">here</a>.</p>
+
+<p><strong>References</strong>:</p>
+
+<p>Chen G., van Deemter K., Pagliaro S., Smalbil L. and Lin C.  <em>QTUNA: A Corpus for Understanding How Speakers Use Quantification</em>, The 12th International Conference on Natural Language Generation,  Tokyo, 2019.</p>
+
+<hr />
+
+<h4 id="quantified-description-generation">Quantified Description Generation</h4>
+
+<p>We designed two quantified description generation (QDG) algorithms, namely, the incremental algorithm and the greedy algorithm, for simulating human production of quantified expressions, and for reproducing descriptions in the <a href="https://github.com/a-quei/quantified-description-generation">QTUNA dataset</a>.</p>
+
+<p>Given a target scene with its domain knowledge, the generator constructs a set containing all possible scenes in the same domain as the target scene. The generator then calls a QDG algorithm to construct a description containing a set of QEs. The algorithm selects from a set of candidate quantified patterns, based on the common knowledge by mimicking how human beings did so in the QTUNA experiment. Finally, a simple template-based surface realiser is called to map the description (in logical form) into natural language text.</p>
+
+<p>The source code (written in Python) can be downloaded at: <a href="https://github.com/a-quei/quantified-description-generation">here</a>.</p>
+
+<p><strong>References</strong>:</p>
+
+<p>Chen G., van Deemter K. and Lin C. <em>Generating Quantified Descriptions of Abstract Visual Scenes</em>, The 12th International Conference on Natural Language Generation,  Tokyo, 2019.</p>
+
+  </article>
+
+  
+
+  
+
+</div>
+
+      </div>
+    </div>
+
+    <footer>
+
+  <div class="wrapper">
+    &copy; Copyright 2020 Guanyi Chen.
+    
+    
+  </div>
+
+</footer>
+
+
+    <!-- Load jQuery -->
+<script src="//code.jquery.com/jquery-1.12.4.min.js"></script>
+
+<!-- Load Common JS -->
+<script src="/assets/js/common.js"></script>
+
+
+<!-- Load KaTeX -->
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.js"></script>
+<script src="/assets/js/katex.js"></script>
+
+
+
+
+<!-- Include custom icon fonts -->
+<link rel="stylesheet" href="/assets/css/font-awesome.min.css">
+<link rel="stylesheet" href="/assets/css/academicons.min.css">
+
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-XXXXXXXX-X', 'auto');
+ga('send', 'pageview');
+</script>
+
+
+  </body>
+
+</html>
