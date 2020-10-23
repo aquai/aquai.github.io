@@ -27,6 +27,6 @@ My primary research interest lie within [Natural Language Generation](https://en
 
 #### Academic Services
 
-- **Program Committee**: ACL (2019, 2020), EMNLP (2019, 2020), AAAI (2020, 2021), COLING (2020), AACL (2020), CCL (2020), NeurIPS (2020), INLG (2020), EACL (2021)
+- **Program Committee**: ACL (2019, 2020), EMNLP (2019, 2020), AAAI (2020, 2021), COLING (2020), AACL (2020), CCL (2020), NeurIPS (2020), INLG (2020), EACL (2021), NAACL (2021)
 - **Area Chair**: INLG (2019)
 - **Reviewer**: Neurocomputing, Computer Speech and Language, Natural Language Engineering, IEEE Access
